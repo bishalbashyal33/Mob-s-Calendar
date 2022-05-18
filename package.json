@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bishalbashyal33/Mob-s-Calendar/issues"
   },
-  "homepage": "https://github.com/bishalbashyal33/Mob-s-Calendar#readme"
+  "homepage": "https://github.com/bishalbashyal33/Mob-s-Calendar#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
 }
